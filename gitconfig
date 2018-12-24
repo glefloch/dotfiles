@@ -1,0 +1,22 @@
+[color]
+	ui = auto
+
+[user]
+	name = glefloch
+	email = glfloch@gmail.com
+
+[core]
+	editor = vim
+
+[pull]
+	rebase = preserve
+
+[push]
+	default = current
+
+[advice]
+	statusHints = false
+
+[alias]
+	st = status
+	co = checkout
