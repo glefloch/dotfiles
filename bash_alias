@@ -1,0 +1,10 @@
+# enable color support
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+
+# shortcut
+alias ll='ls -l'
+alias la='ll -a'
+alias vim='nvim'
+alias k='kubectl'
+
